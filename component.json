@@ -1,0 +1,10 @@
+{
+  "name": "filtered-collection",
+  "repo": "karlbohlmark/filtered-collection",
+  "version": "0.0.1",
+  "dependencies": {
+    "karlbohlmark/observable-collection": "*"
+  },
+  "scripts": ["index.js"],
+  "main": "index.js"
+}
